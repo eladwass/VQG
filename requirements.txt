@@ -1,0 +1,11 @@
+nltk==3.4.4
+pandas==0.24.2
+torch==1.1.0
+torchsummary==1.5.1
+torchvision==0.3.0
+tqdm==4.32.2
+Keras 2.0.8
+numpy==1.16.2
+matplotlib==3.0.3
+PIL
+glob==0.6
