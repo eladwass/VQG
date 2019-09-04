@@ -1,4 +1,4 @@
-# Visaul Question Generating
+# Visual Question Generating
 This project task is to ask a natural and engaging question when shown an image inspired by the article Generating Natural Questions About an Image
 
 # Results
