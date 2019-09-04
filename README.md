@@ -4,9 +4,9 @@ This project task is to ask a natural and engaging question when shown an image 
 # Results
 You can look at those examples to feel the results:
 
-![1st example](https://github.com/eladwass/VGQ/blob/master/result/party.png?raw=true)
+![1st example](https://github.com/eladwass/VQG/blob/master/result/party.png?raw=true)
 
-![2nd example](https://github.com/eladwass/VGQ/blob/master/result/store.png?raw=true)
+![2nd example](https://github.com/eladwass/VQG/blob/master/result/store.png?raw=true)
 
 # Explanation of Jupyter Notebooks:
 ```Download datasets.ipynb```
